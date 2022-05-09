@@ -1,0 +1,52 @@
+body{ 
+	background: linear-gradient(black,grey);
+}
+.logo{
+	text-align: left;
+}
+.titulo{
+	text-align: center;
+}
+.titulo h1{
+	text-transform: uppercase;
+}.titulo p{
+	font-size: 2vw;
+
+}
+h2{
+	color: #00f;
+}
+#logo{
+	width: 200px;
+	height: 200px;
+}
+.rodape{
+	font-size: 2vw;
+	font-family: cursive;
+	background: grey;
+	color: #000;
+	width: 100%;
+	height: 70px;
+	text-align: center;
+}
+.rodape p {
+	margin-top: 150px;
+}
+.rodape a {
+	text-decoration: none;
+}
+.noticia h1{
+	color: white;
+}
+.noticia p{
+	color: white;
+	text-align: justify;
+	font-size: 2vw;
+}
+#one{
+background: linear-gradient(royalblue,lightblue);
+}
+.imoney{
+	width: 25%;
+	height: 25%;
+}
